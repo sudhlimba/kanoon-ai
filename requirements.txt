@@ -3,9 +3,9 @@ langchain==0.2.16
 langchain-community==0.2.16
 langchain-openai==0.1.25
 langchain-text-splitters==0.2.4
-chromadb==0.5.5
+chromadb==0.4.24
+protobuf==3.20.3
 pypdf
 python-dotenv
 tiktoken
 requests
-protobuf==3.20.3
